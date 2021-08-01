@@ -1,2 +1,4 @@
 # SpeechRecognition
-Study project for test SpeechRecognition framework. 
+Study project for SpeechRecognition framework test.
+I use some noisy speech from https://freesound.org/.
+
